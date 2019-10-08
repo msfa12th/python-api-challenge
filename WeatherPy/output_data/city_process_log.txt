@@ -1,0 +1,552 @@
+city #1 is Tiksi in RU
+city #2 is Vaini in IN
+city #3 is Erdenet in MN
+city #4 is Ushuaia in AR
+city #5 is Mataura in NZ
+city #6 is Izhma in RU
+city #7 is Carnarvon in ZA
+city #8 is Calatayud in ES
+city #9 is Qaanaaq in GL
+city #10 is Cabo San Lucas in MX
+city #11 is Albany in US
+city #12 is Jamestown in AU
+city #13 is Novyy Urengoy in RU
+city #14 is Barra Patuca in HN
+city #15 is Bluff in AU
+city #16 is Torbay in CA
+city #17 is Atuona in PF
+city #18 is Ponnani in IN
+city #19 is Yellowknife in CA
+city #20 is Gatesville in US
+city #21 is Georgetown in GY
+city #22 is Pinerolo in IT
+city #23 is Dikson in RU
+city #24 is Thaba Nchu in ZA
+city #25 is Togur in RU
+city #26 is Bredasdorp in ZA
+city #27 is San Cristobal in HN
+city #28 is Atasu in KZ
+city #29 is Khatanga in RU
+city #30 is Severomuysk in RU
+city #31 is Hermanus in ZA
+city #32 is Eureka in US
+city #33 is Barreirinha in BR
+city #34 is Sidney in US
+city #35 is Mar Del Plata in AR
+city #36 is Henties Bay in NA
+city #37 is Atar in MR
+city #38 is Kaeo in NZ
+city #39 is Kangaatsiaq in GL
+city #40 is Yulara in AU
+city #41 is Lebu in ET
+city #42 is Salalah in OM
+city #43 is Yerbogachen in RU
+city #44 is Ranau in MY
+city #46 is Puerto Ayora in EC
+city #47 is Rawson in AR
+city #48 is Busselton in AU
+city #49 is Thompson in CA
+city #0 is Soyo in AO
+city #1 is Kavieng in PG
+city #2 is Tasiilaq in GL
+city #3 is Cape Town in ZA
+city #6 is Pangody in RU
+city #7 is Ozernovskiy in RU
+city #9 is Airai in TL
+city #10 is Punta Arenas in CL
+city #11 is Las Palmas in CO
+city #12 is Buala in SB
+city #13 is Calabozo in VE
+city #14 is Rikitea in PF
+city #15 is Barrow in AR
+city #16 is Nieuw Amsterdam in SR
+city #17 is Faanui in PF
+city #18 is Saskatoon in CA
+city #19 is Mugango in TZ
+city #20 is Hervey Bay in AU
+city #21 is Pudozh in RU
+city #22 is Kapaa in US
+city #23 is Port Alfred in ZA
+city #24 is Hobart in AU
+city #27 is Leningradskiy in RU
+city #28 is Nikolskoye in RU
+city #29 is Bilibino in RU
+city #30 is Matara in BI
+city #31 is Kodiak in US
+city #32 is Ribeira Grande in PT
+city #33 is Tuy Hoa in VN
+city #34 is Pyshma in RU
+city #35 is Ayr in AU
+city #37 is Port Elizabeth in US
+city #38 is Grand Gaube in MU
+city #39 is Daru in PG
+city #41 is Bikaner in IN
+city #42 is Lavrentiya in RU
+city #43 is Butaritari in KI
+city #44 is Richards Bay in ZA
+city #45 is Chokurdakh in RU
+city #46 is Mahebourg in MU
+city #48 is Inhambane in MZ
+city #49 is Abonnema in NG
+city #0 is Avarua in CK
+city #1 is New Norfolk in AU
+city #3 is Tuktoyaktuk in CA
+city #4 is Cooma in AU
+city #5 is Tateyama in JP
+city #6 is Marrakesh in MA
+city #7 is Geraldton in CA
+city #8 is Narsaq in GL
+city #9 is Juneau in US
+city #10 is Dapaong in TG
+city #11 is Victoria in BN
+city #12 is Vostok in RU
+city #13 is Sao Felix Do Xingu in BR
+city #16 is Hargeysa in SO
+city #17 is Dunedin in NZ
+city #18 is Ajaccio in FR
+city #19 is Pa Sang in TH
+city #20 is Sibiti in CG
+city #21 is Talnakh in RU
+city #22 is Sinnamary in GF
+city #23 is East London in ZA
+city #24 is Coahuayana in MX
+city #25 is Roma in IT
+city #26 is Ballina in IE
+city #27 is Tokmak in UA
+city #28 is Amga in RU
+city #29 is Aksarka in RU
+city #30 is Camacha in PT
+city #31 is Provideniya in RU
+city #32 is Shablykino in RU
+city #33 is Ponta Do Sol in BR
+city #34 is Klaksvik in FO
+city #35 is Katsuura in JP
+city #36 is Erzin in TR
+city #37 is Padang in ID
+city #39 is San Agustin Acasaguastlan in GT
+city #40 is Sechura in PE
+city #41 is Jiuquan in CN
+city #42 is Wonthaggi in AU
+city #44 is Nador in MA
+city #45 is Porbandar in IN
+city #46 is Halifax in CA
+city #47 is Talkha in EG
+city #48 is Lompoc in US
+city #49 is Ilulissat in GL
+city #0 is Kahului in US
+city #1 is Neepawa in CA
+city #2 is Saiha in IN
+city #3 is Priladozhskiy in RU
+city #6 is Banda Aceh in ID
+city #7 is Nanortalik in GL
+city #8 is Sur in OM
+city #9 is Severo-kurilsk in RU
+city #10 is Quelimane in MZ
+city #11 is Araouane in ML
+city #12 is Ambilobe in MG
+city #13 is Aklavik in CA
+city #15 is Inuvik in CA
+city #16 is Oistins in BB
+city #17 is Ust-ilimsk in RU
+city #20 is Krasnoborsk in RU
+city #21 is Ikom in NG
+city #22 is Waimana in NZ
+city #24 is Naze in NG
+city #25 is Clyde River in CA
+city #26 is Ronne in FR
+city #28 is Ugoofaaru in MV
+city #29 is Codrington in AU
+city #30 is Upernavik in GL
+city #31 is Chino in JP
+city #33 is Mujiayingzi in CN
+city #35 is Hithadhoo in MV
+city #36 is Cidreira in BR
+city #38 is Siswa Bazar in IN
+city #39 is Nome in US
+city #40 is Sibolga in ID
+city #41 is Agirish in RU
+city #44 is Muzhi in RU
+city #45 is Pangnirtung in CA
+city #46 is Luderitz in NA
+city #47 is Ibb in YE
+city #48 is Santander in PH
+city #49 is Kabo in CF
+city #0 is Tura in RU
+city #1 is Ankang in CN
+city #2 is Hay River in CA
+city #3 is Batemans Bay in AU
+city #4 is Glyadyanskoye in RU
+city #5 is Vila Velha in BR
+city #6 is Bontang in ID
+city #7 is Okha in RU
+city #8 is Vardo in US
+city #9 is Whitehorse in CA
+city #10 is Bilma in NE
+city #11 is Arraial Do Cabo in BR
+city #12 is Gat in SN
+city #13 is Nelson Bay in AU
+city #14 is Bethel in US
+city #15 is Sorong in ID
+city #16 is Bambanglipuro in ID
+city #17 is Abalak in NE
+city #18 is Fayaoue in NC
+city #19 is Muros in ES
+city #20 is Peleduy in RU
+city #21 is Kudahuvadhoo in MV
+city #22 is Sitka in US
+city #23 is Ketchikan in US
+city #24 is Morant Bay in JM
+city #25 is Cachoeiro De Itapemirim in BR
+city #26 is Jalu in LY
+city #27 is Reguengos De Monsaraz in PT
+city #28 is Saint George in GR
+city #30 is Lixourion in GR
+city #31 is Listvyanka in RU
+city #33 is Lujiang in CN
+city #34 is Castro in CL
+city #35 is Valenca in BR
+city #36 is Poyarkovo in RU
+city #37 is San Policarpo in PH
+city #38 is Palmer in AU
+city #39 is Lata in IN
+city #40 is Gua Musang in MY
+city #41 is Praia in BR
+city #43 is Souillac in FR
+city #44 is Sept-iles in CA
+city #45 is Frontera in MX
+city #46 is Juba in EE
+city #48 is Bonanza in NI
+city #49 is Nova Vodolaha in UA
+city #0 is Morondava in MG
+city #1 is Khorixas in NA
+city #2 is Isangel in VU
+city #3 is Axim in GH
+city #4 is Tuatapere in NZ
+city #5 is Fortuna in US
+city #7 is Huixtla in MX
+city #8 is San Patricio in PY
+city #9 is Manzanillo in MX
+city #10 is Severo-yeniseyskiy in RU
+city #11 is Makurdi in NG
+city #12 is Vangaindrano in MG
+city #14 is Manokwari in ID
+city #15 is Port Augusta in AU
+city #16 is Makakilo City in US
+city #17 is Pisco in PE
+city #18 is Saint-pierre in FR
+city #20 is Ormara in PK
+city #21 is Kaitangata in NZ
+city #22 is Lerwick in GB
+city #23 is Saskylakh in RU
+city #24 is Sao Filipe in CV
+city #25 is Saint-paul in FR
+city #26 is Gornopravdinsk in RU
+city #27 is Longyearbyen in NO
+city #28 is Huilong in CN
+city #29 is Dakar in SN
+city #31 is Smithers in CA
+city #32 is Esso in RU
+city #33 is Sobolevo in RU
+city #34 is Xinqing in CN
+city #35 is Quatre Cocos in MU
+city #36 is Bani in YE
+city #38 is Avera in US
+city #40 is Vestmannaeyjar in IS
+city #42 is General Delgado in PY
+city #43 is Saint-philippe in CA
+city #44 is Bella Union in CO
+city #45 is Hilo in US
+city #46 is Yumen in CN
+city #47 is Tiarei in PF
+city #48 is Havre-saint-pierre in CA
+city #0 is Adrar in DZ
+city #1 is Kill in IE
+city #3 is Belyy Yar in RU
+city #4 is Goffstown in US
+city #5 is Touros in BR
+city #6 is Kurchum in KZ
+city #7 is Chuy in UY
+city #8 is Puerto Carreno in CO
+city #9 is Samfya in ZM
+city #10 is Samarai in PG
+city #11 is Geilo in NO
+city #13 is Gorontalo in ID
+city #15 is Winton in AU
+city #16 is Pangoa in PE
+city #18 is Nikolayevsk-na-amure in RU
+city #20 is Vila Franca Do Campo in PT
+city #22 is Felipe Carrillo Puerto in MX
+city #23 is Kloulklubed in PW
+city #24 is Arman in RU
+city #26 is Tinde in TZ
+city #27 is Abaetetuba in BR
+city #28 is Namibe in AO
+city #29 is Iqaluit in CA
+city #30 is Coihaique in CL
+city #31 is Ulcinj in ME
+city #32 is Hualmay in PE
+city #33 is Ahuimanu in US
+city #35 is Pacific Grove in US
+city #36 is Bacolod in PH
+city #37 is Kajaani in FI
+city #38 is Buraydah in SA
+city #39 is Srednekolymsk in RU
+city #40 is Puerto Colombia in CO
+city #41 is Thessalon in CA
+city #43 is Port Moresby in PG
+city #44 is Tarko-sale in RU
+city #45 is Laguna in BZ
+city #46 is Manggar in ID
+city #47 is Amurzet in CN
+city #48 is Lunglei in IN
+city #49 is Guayaramerin in BO
+city #0 is Ventspils in LV
+city #1 is Garowe in SO
+city #2 is Chara in GR
+city #3 is Roald in NO
+city #5 is Lorengau in PG
+city #6 is Kruisfontein in ZA
+city #7 is Jeremoabo in BR
+city #8 is Epinal in FR
+city #10 is Clearwater in US
+city #11 is Ostrovnoy in RU
+city #12 is Sao Joao Da Barra in BR
+city #13 is Ocampo in MX
+city #14 is Bubaque in GW
+city #15 is Gamba in CN
+city #16 is Colac in AU
+city #17 is Cherskiy in RU
+city #18 is Le Pont-de-claix in FR
+city #21 is Trairi in BR
+city #22 is Norman Wells in CA
+city #23 is Kilindoni in TZ
+city #24 is Zhukovo in RU
+city #25 is Tashtyp in RU
+city #26 is Ilo in PE
+city #28 is Mehamn in NO
+city #29 is Esperance in AU
+city #30 is Suhbaatar in MN
+city #31 is Bambous Virieux in MU
+city #32 is Arica in CL
+city #34 is Kamenka in MD
+city #35 is Te Anau in NZ
+city #36 is Comodoro Rivadavia in AR
+city #37 is Verkhnevilyuysk in RU
+city #38 is Alofi in NU
+city #40 is Tiznit in MA
+city #41 is Kenai in US
+city #42 is Iskateley in RU
+city #43 is Gizo in IL
+city #44 is Merke in KZ
+city #45 is Karratha in AU
+city #46 is Arawa in ID
+city #49 is Phan Thiet in VN
+city #0 is Carutapera in BR
+city #3 is Puerto Narino in CO
+city #4 is Takoradi in GH
+city #6 is Starobaltachevo in RU
+city #7 is Viana in BR
+city #8 is Hofn in IS
+city #9 is Namatanai in PG
+city #10 is Deputatskiy in RU
+city #11 is Tam Ky in VN
+city #12 is Port Blair in IN
+city #13 is Vryburg in ZA
+city #14 is Koshurnikovo in RU
+city #16 is Nanakuli in US
+city #17 is Manapparai in IN
+city #18 is Okhotsk in RU
+city #19 is Ixtapa in MX
+city #22 is Hammerfest in NO
+city #23 is Kishtwar in IN
+city #24 is Lagoa in PT
+city #25 is Lang Son in VN
+city #26 is Uyo in NG
+city #28 is Jatibarang in ID
+city #29 is Sovkhoznyy in RU
+city #30 is Pevek in RU
+city #31 is Forestville in CA
+city #32 is Qaqortoq in GL
+city #33 is Huaicheng in CN
+city #34 is Trat in TH
+city #35 is Oksfjord in NO
+city #37 is Stonewall in CA
+city #38 is Turukhansk in RU
+city #39 is Broome in GB
+city #40 is College in US
+city #41 is Uttarkashi in IN
+city #42 is Katobu in ID
+city #43 is Barreirinhas in BR
+city #44 is Nha Trang in VN
+city #46 is Ostersund in SE
+city #47 is Rochegda in RU
+city #48 is Black River in JM
+city #49 is Sumbal in IN
+city #0 is Kalvarija in LT
+city #1 is Mount Gambier in AU
+city #4 is The Pas in CA
+city #5 is Kuching in MY
+city #6 is Christchurch in NZ
+city #7 is Ancud in CL
+city #8 is Faya in SA
+city #9 is Muhlhausen in DE
+city #10 is Vao in EE
+city #12 is Verkhnyaya Inta in RU
+city #15 is Nuuk in GL
+city #17 is Havelock in US
+city #18 is Shingu in JP
+city #19 is Hirara in JP
+city #20 is Urucara in BR
+city #21 is Brainerd in US
+city #22 is Saldanha in PT
+city #23 is Kasempa in ZM
+city #24 is Talcahuano in CL
+city #26 is Nouadhibou in MR
+city #27 is Kununurra in AU
+city #28 is Coruripe in BR
+city #29 is Maragogi in BR
+city #30 is Luancheng in CN
+city #31 is Belaya Gora in RU
+city #32 is Guerrero Negro in MX
+city #34 is Gweta in BW
+city #35 is Krasnyy Kut in RU
+city #36 is Dolores in UY
+city #37 is Manga in PK
+city #38 is Wilmington in US
+city #39 is Ambon in FR
+city #40 is Batagay-alyta in RU
+city #41 is Hovd in NO
+city #42 is Manakara in MG
+city #43 is Coos Bay in US
+city #44 is Lac-megantic in CA
+city #45 is Kurilsk in RU
+city #47 is Alvorada in BR
+city #48 is Nemuro in JP
+city #49 is Kailua in US
+city #0 is Phultala in BD
+city #1 is Beloha in MG
+city #2 is Ardakan in IR
+city #3 is Houma in CN
+city #4 is Omsukchan in RU
+city #5 is Benguela in AO
+city #6 is Kunming in CN
+city #8 is Danville in US
+city #11 is Mastung in PK
+city #12 is Boa Vista in BR
+city #13 is Dogondoutchi in NE
+city #17 is Langfang in CN
+city #19 is Kavaratti in IN
+city #20 is Komsomolskiy in RU
+city #22 is Swan Hill in AU
+city #25 is Vizinga in RU
+city #26 is Thunder Bay in CA
+city #27 is Dasoguz in TM
+city #28 is Salamiyah in SY
+city #29 is Najran in SA
+city #30 is Carballo in ES
+city #31 is Evensk in RU
+city #32 is Logatec in SI
+city #33 is Bakel in SN
+city #34 is The Valley in AI
+city #35 is Acari in BR
+city #36 is Chengde in CN
+city #37 is Noumea in NC
+city #41 is Manzhouli in CN
+city #42 is Kazachinskoye in RU
+city #43 is Beringovskiy in RU
+city #44 is Taoudenni in ML
+city #45 is Tomatlan in MX
+city #47 is Ewa Beach in US
+city #48 is Dingle in PH
+city #49 is Abu Samrah in SY
+city #0 is Limache in CL
+city #2 is Ngunguru in NZ
+city #3 is Eregli in TR
+city #5 is Carroll in AU
+city #6 is Suntar in RU
+city #7 is Dongsheng in CN
+city #8 is Zhangye in CN
+city #9 is Ranong in TH
+city #10 is Den Helder in NL
+city #11 is Urusha in RU
+city #12 is Monteagudo in BO
+city #13 is Xiamen in CN
+city #14 is Alice Springs in AU
+city #15 is Itarema in BR
+city #16 is Luanda in AO
+city #18 is Glenwood Springs in US
+city #19 is Carmichael in GB
+city #21 is Cockburn Town in TC
+city #22 is Middelkerke in BE
+city #23 is Flinders in AU
+city #25 is Otavi in NA
+city #26 is Chingola in ZM
+city #27 is Jijiga in ET
+city #28 is Reo in BF
+city #29 is Marawi in PH
+city #30 is Port Hardy in CA
+city #31 is Timizart in DZ
+city #33 is Mamallapuram in IN
+city #35 is San Andres in PH
+city #36 is Arenapolis in BR
+city #38 is Starodub in RU
+city #39 is Palmares Do Sul in BR
+city #40 is Salaga in GH
+city #41 is Tual in ID
+city #42 is Iralaya in HN
+city #43 is Bereda in ES
+city #44 is Cape Canaveral in US
+city #45 is Kiunga in PG
+city #46 is Santa Cruz in BR
+city #47 is Coquimbo in CL
+city #1 is Teya in MX
+city #3 is Westport in US
+city #4 is Minna in NG
+city #5 is Caravelas in BR
+city #6 is Port-gentil in GA
+city #7 is Murgab in TM
+city #8 is Bad Munstereifel in DE
+city #10 is North Bend in US
+city #12 is Muroto in JP
+city #13 is Santiago in PH
+city #14 is Khanapur in IN
+city #17 is Khor in RU
+city #18 is Campo Formoso in BR
+city #19 is Otane in NZ
+city #20 is Springbok in ZA
+city #21 is Saint-joseph in FR
+city #22 is Antofagasta in CL
+city #25 is Gemena in CD
+city #26 is Constitucion in MX
+city #27 is Kimbe in PG
+city #28 is Paducah in US
+city #29 is Nosivka in UA
+city #30 is Kirkwood in ZA
+city #31 is Saint-augustin in CA
+city #32 is Acapulco in MX
+city #34 is Meulaboh in ID
+city #35 is Goderich in CA
+city #36 is Amapa in HN
+city #38 is Sambo Creek in HN
+city #39 is Kaduqli in SD
+city #40 is Tecoanapa in MX
+city #41 is Nhulunbuy in AU
+city #42 is Summerville in US
+city #43 is Balkanabat in TM
+city #45 is Vallenar in CL
+city #46 is Bandarbeyla in SO
+city #49 is Paris in FR
+city #0 is Wasilla in US
+city #1 is Hasaki in JP
+city #2 is Las Vegas in US
+city #3 is Urengoy in RU
+city #4 is Beohari in IN
+city #5 is Aqtobe in KZ
+city #6 is Burnie in AU
+city #8 is Gualeguaychu in AR
+city #9 is Inirida in CO
+city #10 is Igarka in RU
+city #11 is Boone in US
+city #13 is Peniche in PT
+city #14 is Tezu in IN
+city #15 is Sabang in PH
